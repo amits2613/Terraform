@@ -1,8 +1,8 @@
 
 provider "aws"{
 	region = "${var.aws_region}"
-	access_key = "AKIAIR6LKYVGOPJBY62Q"
-	secret_key = "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"
+	access_key = "AWS IAM user access key description"
+	secret_key = "AWS IAM user secret key description"
 }
 
 #Creating a new key pair while launching the instance
